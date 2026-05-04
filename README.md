@@ -1,5 +1,4 @@
 
-
 <h1 align="center">Hey, I'm Ayush Prabhavale 👋</h1>
 
 <p align="center">
@@ -7,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayush-prabhavale-67b2052b4/">
+  <a href="https://www.linkedin.com/in/ayussh-praabhavvale-67b2052b4/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
@@ -77,6 +76,20 @@
 |---|---|---|
 | The Bits and Bytes of Computer Networking | Google | Coursera |
 
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush71071&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush71071&layout=compact&theme=default&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayush71071&theme=default&hide_border=true" height="150" />
+</p>
+
+---
 
 ### 📈 Currently Working On
 
@@ -89,12 +102,12 @@
 ### 🤝 Let's Connect
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ayush-prabhavale-67b2052b4/">
+  <a href="https://www.linkedin.com/in/ayussh-praabhavvale-67b2052b4/">
     <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Prabhavale-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:ayusshworks@gmail.com">
-    <img src="https://img.shields.io/badge/Email-your.email%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
+  <a href="mailto:ayusshworks710@gmail.com">
+    <img src="https://img.shields.io/badge/Email-ayusshworks710%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
