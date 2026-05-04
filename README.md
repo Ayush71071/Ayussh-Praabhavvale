@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Ayush Prabhavale 👋</h1>
+<h1 align="center">Hey, I'm Ayussh Praabhavvale 👋</h1>
 
 <p align="center">
   Frontend Developer · React Enthusiast · Building real things with clean code
