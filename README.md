@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey, I'm Ayush Prabhavale 👋</h1>
 
 <p align="center">
@@ -15,8 +14,6 @@
   <img src="https://img.shields.io/badge/Frontend%20Developer-React-61DAFB?style=flat&logo=react&logoColor=white" />
 </p>
 
----
-
 ### 🚀 About Me
 
 - 🎓 B.Tech in Computer Science Engineering at **Vellore Institute of Technology** (2028)
@@ -25,8 +22,6 @@
 - 🧠 Currently deepening my knowledge of **system design** and **backend fundamentals**
 - 📍 Based in Pune, Maharashtra, India
 - 🔍 Actively looking for **Frontend Developer** roles & internships
-
----
 
 ### 🛠️ Tech Stack
 
@@ -47,8 +42,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
----
-
 ### 📌 Featured Projects
 
 | Project | Description | Stack | Live |
@@ -57,10 +50,6 @@
 | [🎮 Snake Game](https://github.com/Ayush71071/Snake-Game) | Classic snake with real-time score tracking & difficulty scaling | HTML, CSS, Vanilla JS | [Play →](#) |
 | [❌ Tic Tac Toe](https://github.com/Ayush71071/TIC-TAC-TOE-) | Two-player game with full win/draw detection | HTML, CSS, Vanilla JS | [Play →](#) |
 | [🎨 CSS Changer](https://github.com/Ayush71071/CSS-Changer) | Dynamic theme/style switcher — change styles in real time | HTML, CSS, Vanilla JS | — |
-
-> ⬆️ Replace the `#` links above with your deployed URLs (Vercel / GitHub Pages)
-
----
 
 ### 🎓 Education
 
@@ -75,8 +64,6 @@
 - 📚 Learning Node.js & Express to move into full-stack territory
 - 🌱 Building a personal project that solves a real-world problem
 
----
-
 ### 🤝 Let's Connect
 
 <p align="left">
@@ -88,8 +75,6 @@
     <img src="https://img.shields.io/badge/Email-ayusshworks710%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
-
----
 
 <p align="center">
   <i>"First, solve the problem. Then, write the code."</i>
