@@ -68,14 +68,6 @@
 |---|---|---|
 | B.Tech — Computer Science Engineering | Vellore Institute of Technology (VIT) | 2024 – 2028 |
 
----
-
-### 📜 Certifications
-
-| Certificate | Issuer | Platform |
-|---|---|---|
-| The Bits and Bytes of Computer Networking | Google | Coursera |
-
 
 ### 📈 Currently Working On
 
