@@ -52,17 +52,3 @@
 | [❌ Tic Tac Toe](https://github.com/Ayush71071/TIC-TAC-TOE-) | Two-player Tic Tac Toe with win detection | HTML, CSS, JS |
 | [🎨 CSS Changer](https://github.com/Ayush71071/CSS-Changer) | Dynamic theme/style switcher tool | HTML, CSS, JS |
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush71071&show_icons=true&theme=default&hide_border=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush71071&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
-
----
-
-<p align="center">
-  💬 Feel free to reach out — I'm always up for interesting projects and opportunities!
-</p>
