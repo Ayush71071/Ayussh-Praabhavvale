@@ -1,4 +1,4 @@
-<!-- Create a repo named Ayush71071/Ayush71071 and paste this as README.md -->
+
 
 <h1 align="center">Hey, I'm Ayush Prabhavale 👋</h1>
 
@@ -10,24 +10,29 @@
   <a href="https://www.linkedin.com/in/ayush-prabhavale-67b2052b4/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Work-brightgreen?style=flat" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20to%20Work-2ea44f?style=flat" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Frontend%20Developer-React-61DAFB?style=flat&logo=react&logoColor=white" />
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 🎓 Passionate about building performant, accessible web apps
-- 💻 Working with **React**, **Redux**, **Tailwind CSS**, **Material UI**
+- 🎓 B.Tech in Computer Science Engineering at **Vellore Institute of Technology** (2028)
+- 💻 Building with **React**, **Redux**, **Tailwind CSS**, and **Material UI**
 - 🌐 Comfortable with REST APIs, Docker, and component-driven architecture
+- 🧠 Currently deepening my knowledge of **system design** and **backend fundamentals**
 - 📍 Based in Pune, Maharashtra, India
-- 🔍 Actively looking for **Frontend / Full-Stack Developer** roles
+- 🔍 Actively looking for **Frontend Developer** roles & internships
 
 ---
 
 ### 🛠️ Tech Stack
 
 **Frontend**
+
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
@@ -35,8 +40,10 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-**Tools & Others**
+**State & Tooling**
+
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![Axios](https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=axios&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
@@ -45,10 +52,73 @@
 
 ### 📌 Featured Projects
 
-| Project | Description | Stack |
-|---|---|---
-| [🎬 YouTube Clone](https://github.com/Ayush71071/Youtube-Clone) | Full YouTube UI with search, playback & channel pages | React, Redux, MUI, YouTube API |
-| [🎮 Snake Game](https://github.com/Ayush71071/Snake-Game) | Classic snake game with score tracking | HTML, CSS, JS |
-| [❌ Tic Tac Toe](https://github.com/Ayush71071/TIC-TAC-TOE-) | Two-player Tic Tac Toe with win detection | HTML, CSS, JS |
-| [🎨 CSS Changer](https://github.com/Ayush71071/CSS-Changer) | Dynamic theme/style switcher tool | HTML, CSS, JS |
+| Project | Description | Stack | Live |
+|---|---|---|---|
+| [🎬 YouTube Clone](https://github.com/Ayush71071/Youtube-Clone) | Full YouTube UI — search, playback, channel pages, dark mode | React, Redux, MUI, YouTube API v3, Docker | [Demo →](#) |
+| [🎮 Snake Game](https://github.com/Ayush71071/Snake-Game) | Classic snake with real-time score tracking & difficulty scaling | HTML, CSS, Vanilla JS | [Play →](#) |
+| [❌ Tic Tac Toe](https://github.com/Ayush71071/TIC-TAC-TOE-) | Two-player game with full win/draw detection | HTML, CSS, Vanilla JS | [Play →](#) |
+| [🎨 CSS Changer](https://github.com/Ayush71071/CSS-Changer) | Dynamic theme/style switcher — change styles in real time | HTML, CSS, Vanilla JS | — |
+
+> ⬆️ Replace the `#` links above with your deployed URLs (Vercel / GitHub Pages)
+
+---
+
+### 🎓 Education
+
+| Degree | Institution | Year |
+|---|---|---|
+| B.Tech — Computer Science Engineering | Vellore Institute of Technology (VIT) | 2024 – 2028 |
+
+---
+
+### 📜 Certifications
+
+| Certificate | Issuer | Platform |
+|---|---|---|
+| The Bits and Bytes of Computer Networking | Google | Coursera |
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ayush71071&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush71071&layout=compact&theme=default&hide_border=true" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayush71071&theme=default&hide_border=true" height="150" />
+</p>
+
+---
+
+### 📈 Currently Working On
+
+- 🔨 Upgrading the YouTube Clone with user authentication (Firebase)
+- 📚 Learning Node.js & Express to move into full-stack territory
+- 🌱 Building a personal project that solves a real-world problem
+
+---
+
+### 🤝 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ayush-prabhavale-67b2052b4/">
+    <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Prabhavale-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:your.email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-your.email%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i>
+</p>
+
+<p align="center">
+  💬 I'm always open to interesting projects, collaborations, and opportunities!
+</p>
 
