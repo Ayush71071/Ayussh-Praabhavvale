@@ -77,20 +77,6 @@
 |---|---|---|
 | The Bits and Bytes of Computer Networking | Google | Coursera |
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush71071&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush71071&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayush71071&theme=default&hide_border=true" height="150" />
-</p>
-
----
 
 ### 📈 Currently Working On
 
@@ -107,7 +93,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Ayush%20Prabhavale-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:your.email@gmail.com">
+  <a href="mailto:ayusshworks@gmail.com">
     <img src="https://img.shields.io/badge/Email-your.email%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -121,4 +107,3 @@
 <p align="center">
   💬 I'm always open to interesting projects, collaborations, and opportunities!
 </p>
-
