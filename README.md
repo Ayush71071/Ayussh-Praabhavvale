@@ -76,20 +76,6 @@
 |---|---|---|
 | The Bits and Bytes of Computer Networking | Google | Coursera |
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush71071&show_icons=true&theme=default&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush71071&layout=compact&theme=default&hide_border=true" height="150" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Ayush71071&theme=default&hide_border=true" height="150" />
-</p>
-
----
 
 ### 📈 Currently Working On
 
